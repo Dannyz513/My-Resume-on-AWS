@@ -33,7 +33,7 @@ This project shows recruiters my ability to design, deploy, and manage a static 
 
 ### 1️⃣ Plan the Architecture
 - Create an architecture diagram showing: User → Route 53 → CloudFront → S3 → Website.  
-- *Screenshot:* `screenshots/architecture.png`
+- *Screenshot:* `diagram-export-8-1-2025-1_10_51-PM.png`
 
 ### 2️⃣ Set Up S3 Bucket for Website Hosting
 - Create a new S3 bucket named `your-domain.com`.
