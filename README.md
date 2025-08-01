@@ -1,6 +1,6 @@
 # AWS Resume Hosting Project
 
-![Architecture](Architecture Diagram.png)
+![Architecture](https://github.com/Dannyz513/My-Resume-on-AWS/blob/d5499badfca3e7799aaecbefa398748b40ebad25/Architecture%20Diagram.png)
 
 ## 📌 Project Description
 This project demonstrates how to host a secure, highly available resume website on AWS using **S3**, **CloudFront**, **Route 53**, and **AWS Certificate Manager (ACM)**.  
@@ -33,7 +33,7 @@ This project shows recruiters my ability to design, deploy, and manage a static 
 
 ### 1️⃣ Plan the Architecture
 - Create an architecture diagram showing: User → Route 53 → CloudFront → S3 → Website.  
-- *Screenshot:* `diagram-export-8-1-2025-1_10_51-PM.png`
+- (https://github.com/Dannyz513/My-Resume-on-AWS/blob/d5499badfca3e7799aaecbefa398748b40ebad25/Architecture%20Diagram.png)
 
 ### 2️⃣ Set Up S3 Bucket for Website Hosting
 - Create a new S3 bucket named `your-domain.com`.
@@ -81,3 +81,4 @@ This project shows recruiters my ability to design, deploy, and manage a static 
 ---
 
 ## 📂 Repository Structure
+https://github.com/Dannyz513/My-Resume-on-AWS/blob/d5499badfca3e7799aaecbefa398748b40ebad25/Architecture%20Diagram.png
