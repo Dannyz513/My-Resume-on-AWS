@@ -8,7 +8,7 @@
 
 ### 1️⃣ Create an S3 Bucket for Website Hosting
 
-- Named the bucket: `danielzaws.com`
+- Named the bucket: `danielzamudioaws.com`
 - Enabled **static website hosting**
 - Uploaded `index.html`, `style.css`, and `script.js`
 - Made objects publicly readable
@@ -19,7 +19,7 @@
 
 ### 2️⃣ Set Up Hosted Zone in Route 53
 
-- Created a **hosted zone**: `danielzaws.com`
+- Created a **hosted zone**: `danielzamudioaws.com`
 - Copied **NS records** into Network Solutions DNS settings
 - AWS now manages DNS for the domain
 
@@ -60,9 +60,7 @@
 
 ### 6️⃣ Final Result: Live Interactive Resume
 
-The website is now live at:
 
-🔗 **[https://danielzamudioaws.com](https://danielzamudioaws.com)**
 
 📷 `screenshots/final-site.png`
 
