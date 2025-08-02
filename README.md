@@ -1,6 +1,9 @@
 
 ---
 
+![image alt](https://github.com/Dannyz513/My-Resume-on-AWS/blob/188af12e8eb1548fff2d4504e2141da2cf0934f8/diagram-export-8-2-2025-1_27_15-PM.png)
+
+
 ## 🛠️ Step-by-Step Guide
 
 ### 1️⃣ Create an S3 Bucket for Website Hosting
