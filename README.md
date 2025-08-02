@@ -13,14 +13,14 @@
 - Uploaded `index.html`, `style.css`, and `script.js`
 - Made objects publicly readable
 
-📷 `screenshots/s3-hosting.png`
+📷 ![image alt](https://github.com/Dannyz513/My-Resume-on-AWS/blob/caa7e6511c6d061cff1389e750188b662a1dd86a/S3%20static%20website.png) 
 
 ---
 
 ### 2️⃣ Set Up Hosted Zone in Route 53
 
 - Created a **hosted zone**: `danielzamudioaws.com`
-- Copied **NS records** into Network Solutions DNS settings
+- Copied **NS records** into GoDaddy DNS settings
 - AWS now manages DNS for the domain
 
 📷 `screenshots/route53-zone.png`
