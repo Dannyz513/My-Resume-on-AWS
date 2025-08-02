@@ -23,7 +23,7 @@
 - Copied **NS records** into GoDaddy DNS settings
 - AWS now manages DNS for the domain
 
-📷 `screenshots/route53-zone.png`
+📷 ![image alt](https://github.com/Dannyz513/My-Resume-on-AWS/blob/800b015adfd85433491c3559c0c774f1d16cec5c/Route%2053.png) 
 
 ---
 
