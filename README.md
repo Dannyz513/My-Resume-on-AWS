@@ -1,6 +1,7 @@
 # AWS Resume Hosting Project
 
-![Architecture](https://github.com/Dannyz513/My-Resume-on-AWS/blob/d5499badfca3e7799aaecbefa398748b40ebad25/Architecture%20Diagram.png)
+![Architecture](https://github.com/Dannyz513/My-Resume-on-AWS/blob/a90888ae6f90dcd25747ed6d8eadaf343c215aac/eraser-export-export-8-2-2025-1_27_15-PM.zip) 
+
 
 ## 📌 Project Description
 This project demonstrates how to host a secure, highly available resume website on AWS using **S3**, **CloudFront**, **Route 53**, and **AWS Certificate Manager (ACM)**.  
