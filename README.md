@@ -45,7 +45,7 @@
 - Attached the **ACM certificate** for HTTPS
 - Forwarded HTTP to HTTPS
 
-📷 `screenshots/cloudfront-settings.png`
+📷 ![image alt](https://github.com/Dannyz513/My-Resume-on-AWS/blob/ccbc9491dfdf3b5ffbf47907a0390be0533ac380/Cloudfront%20D.png)
 
 ---
 
