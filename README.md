@@ -54,7 +54,7 @@
 - Created an **A Record (Alias)** to route `danielzamudioaws.com` to CloudFront
 - Validated and tested the domain routing
 
-📷 `screenshots/route53-record.png`
+📷 ![image alt](https://github.com/Dannyz513/My-Resume-on-AWS/blob/d8db6dec7530aa76d1ffba6f886a97101cfa299e/Route%2053%20A%20name.png)
 
 ---
 
