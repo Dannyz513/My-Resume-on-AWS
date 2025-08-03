@@ -62,7 +62,7 @@
 
 
 
-📷 `screenshots/final-site.png`
+📷 ![image alt](https://github.com/Dannyz513/My-Resume-on-AWS/blob/e942d8f5e6e1d1589ad8b4da267ef63b4f9c8d89/Final%20resume.png)
 
 ---
 
