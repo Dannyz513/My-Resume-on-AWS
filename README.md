@@ -34,7 +34,7 @@
 - Added CNAME record to Route 53
 - Certificate status: ✅ Issued
 
-📷 `screenshots/acm-certificate.png`
+📷 ![image alt](https://github.com/Dannyz513/My-Resume-on-AWS/blob/cc1724c8fd0a6028d84b135b3ffb318fe687ff0a/ACM.png)
 
 ---
 
