@@ -80,7 +80,5 @@
 
 ### `index.html`
 
-```html
-<!-- Resume Website HTML here -->
-<!-- See index.html file in repo -->
+[Open Index Page](https://github.com/Dannyz513/My-Resume-on-AWS/blob/406bb7bdc2f1ba3bf4e024312feee05fb3d32b1a/index.html) 
 
